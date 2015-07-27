@@ -8,8 +8,7 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "babel-node server.js",
-    "watch": "nodemon --exec babel-node -- server.js"
+    "start": "babel-node server.js nodemon --exec babel-node -- server.js"
   },
   "dependencies": {
     "alt": "^0.17.1",

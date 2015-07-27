@@ -83,7 +83,7 @@ var Home = (function (_React$Component) {
       return _react2['default'].createElement(
         'div',
         { className: 'alert alert-info' },
-        'Hello from Home Component!'
+        'Welcome to Ouroboros!'
       );
     }
   }]);
